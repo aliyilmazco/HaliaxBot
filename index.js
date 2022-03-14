@@ -137,4 +137,4 @@ client.on('interactionCreate', async interaction => {
     discordPresence.joinSecret = "MTI4NzM0OjFpMmhuZToxMjMxMjM= ";
     Discord_UpdatePresence(&discordPresence);
 }*/
-client.login('OTM5ODY5NzYxMjgwNTUyOTcw.Yf_H7Q.lLKtjnPHDF209qwf7DEQOHd96NI');
+client.login('-');
